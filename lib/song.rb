@@ -5,5 +5,5 @@ class Song
 @@genres = 0
 @@artists = 0
 
-def initialize(song_name, artist, )
+def initialize(song_name, artist, genre)
 end
